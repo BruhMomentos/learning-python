@@ -1,0 +1,22 @@
+mc1 = input("Enter a name for the mc1: ")
+mcfem = input("Enter a name for the female mc: ")
+mc2 = input("Enter a name for mc2: ")
+print("           ")
+print("Start of the Story")
+print("           ")
+print("            ")
+print(mc1 + ": What's good shawty, you looking mighty fine, " + mcfem)
+print(mcfem + ": Ew get away from me creep, you're so fucking weird, " + mc1)
+print(mc1 + ": Don't be disrespecting me like that, or face the consequences " + mcfem + "!!")
+print(mcfem + ": NOOOOOOOOOOOOOOOOOOOOOOOOOO, SOMEONE SAVE ME!!")
+print(mc2 + ": I " + mc2 + " am here to save the day, no need to worry, " + mcfem + ". You are safe with me now.")
+print(mc1 + ": Oh nah cmere foo!!")
+print("(INTENSE FIGHTING SCENE)")
+print("(" + mc1 + " dies from his fatal injuries against his fight with " + mc2 + ")")
+print(mc2 + ": I have saved you " + mcfem + ", now will you marry me?")
+print(mcfem + ": OH OF COURSE!!!, I LOVE YOU" + mc2 + "!!!")
+print(mc2 + ": LETS GOOOOO, BIG DUUUBSS!!!")
+
+print("End of story")
+
+
